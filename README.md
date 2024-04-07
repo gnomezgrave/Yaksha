@@ -1,5 +1,4 @@
 # Yaksha Programming Language
-
 ---------
 
 ![https://yakshalang.github.io/](https://yakshalang.github.io/imgs/yk-banner1.png)
